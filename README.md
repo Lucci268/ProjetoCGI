@@ -1,4 +1,7 @@
 # 🎨 Projeto de CGI
+## Luciano Henrique Pereira Corderio - 00000853712
+## Paulo Barbosa Apolinário Neto - 00000853095
+## Rafael Calvacanti Montenegro - 00000853112
 
 ## 📌 Descrição
 
